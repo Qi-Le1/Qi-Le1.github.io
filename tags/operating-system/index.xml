@@ -2,17 +2,17 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Operating System on Qi Le</title>
-    <link>https://example.com/tags/operating-system/</link>
+    <link>https://qi-le1.github.io/tags/operating-system/</link>
     <description>Recent content in Operating System on Qi Le</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Sun, 11 Feb 2018 12:41:05 -0500</lastBuildDate><atom:link href="https://example.com/tags/operating-system/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sun, 11 Feb 2018 12:41:05 -0500</lastBuildDate><atom:link href="https://qi-le1.github.io/tags/operating-system/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>User-level Thread Library</title>
-      <link>https://example.com/projects/creations/os/</link>
+      <link>https://qi-le1.github.io/projects/creations/os/</link>
       <pubDate>Sun, 11 Feb 2018 12:41:05 -0500</pubDate>
       
-      <guid>https://example.com/projects/creations/os/</guid>
+      <guid>https://qi-le1.github.io/projects/creations/os/</guid>
       <description>BOSH (Bosh Outer SHell) &amp;ldquo;&amp;hellip;is an open source tool for release engineering, deployment, lifecycle management, and monitoring of distributed systems.&amp;rdquo; And it&amp;rsquo;s amazingly powerful. This examples uses BOSH to provision an Alassian vendor app running on JDK along with the support Postgres database and agents to support it. The releases manages the health of services and will automatically provision, start/stop processes across the various services.</description>
     </item>
     

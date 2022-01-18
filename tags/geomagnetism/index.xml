@@ -2,17 +2,17 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Geomagnetism on Qi Le</title>
-    <link>https://example.com/tags/geomagnetism/</link>
+    <link>https://qi-le1.github.io/tags/geomagnetism/</link>
     <description>Recent content in Geomagnetism on Qi Le</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Sun, 11 Feb 2018 12:41:05 -0500</lastBuildDate><atom:link href="https://example.com/tags/geomagnetism/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sun, 11 Feb 2018 12:41:05 -0500</lastBuildDate><atom:link href="https://qi-le1.github.io/tags/geomagnetism/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Indoor Localization for Car Finding</title>
-      <link>https://example.com/projects/creations/carfinding/</link>
+      <link>https://qi-le1.github.io/projects/creations/carfinding/</link>
       <pubDate>Sun, 11 Feb 2018 12:41:05 -0500</pubDate>
       
-      <guid>https://example.com/projects/creations/carfinding/</guid>
+      <guid>https://qi-le1.github.io/projects/creations/carfinding/</guid>
       <description>Indoor positioning provides a new experience for the users, and becomes more and more important for the car-finding in the underground garages. Researchers have come up with many accurate indoor localization systems in the laboratory. However, they can hardly been deployed in the garages due to many challenges in real world. In this work, we propose a smartphone-based indoor positioning system LocateMe, which leverages radio signals and geomagnetic fields to provide fingerprinting-based localization service in garages.</description>
     </item>
     
