@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>jQuery on Qi Le</title>
+    <link>https://example.com/tags/jquery/</link>
+    <description>Recent content in jQuery on Qi Le</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sun, 11 Feb 2018 12:41:05 -0500</lastBuildDate><atom:link href="https://example.com/tags/jquery/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Atlassian Deployment Triggers</title>
+      <link>https://example.com/projects/contributions/deploy-triggers/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://example.com/projects/contributions/deploy-triggers/</guid>
+      <description>Addressed pretty significant page load performance issue founde in larger deployments. Eliminates uses of intensive backend query, replacing it with an asynchronous API call against a lucene index. This change reduces page load from from 2+ minutes to nearly instant, with an incredibly responsive UI.</description>
+    </item>
+    
+    <item>
+      <title>Web Application</title>
+      <link>https://example.com/projects/creations/web/</link>
+      <pubDate>Sun, 11 Feb 2018 12:41:05 -0500</pubDate>
+      
+      <guid>https://example.com/projects/creations/web/</guid>
+      <description>Designed a Game Information Interactive Reviewing Website to interact with visitors. Increasing cost time for associative-word search from 3951ms to 6ms under 1000 executions using implemented Trie Tree and Python Session, compared to PostgreSQL fuzzy search. Supported the authentication using flask + authlib + auth0. Built a data warehouse to store multi-sourced data about game Information and updated comments with PostgreSQL. Utilized jQuery and Pure CSS to build the frontend which provides users with self-guide exploration for game content</description>
+    </item>
+    
+  </channel>
+</rss>

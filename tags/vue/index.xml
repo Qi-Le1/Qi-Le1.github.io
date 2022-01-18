@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Vue on Qi Le</title>
+    <link>https://example.com/tags/vue/</link>
+    <description>Recent content in Vue on Qi Le</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sun, 11 Feb 2018 12:41:05 -0500</lastBuildDate><atom:link href="https://example.com/tags/vue/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>SynSpot</title>
+      <link>https://example.com/projects/creations/synspot/</link>
+      <pubDate>Sun, 11 Feb 2018 12:41:05 -0500</pubDate>
+      
+      <guid>https://example.com/projects/creations/synspot/</guid>
+      <description>Develop Python-based software and related infrastructure for research purposes, which means the project would help researchers in utilizing the data with Machine Learning Algorithm. This application to help various entities assist each other in supervised learning tasks without sharing data, models, and objective function.</description>
+    </item>
+    
+  </channel>
+</rss>

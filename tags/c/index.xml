@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>C on Qi Le</title>
+    <link>https://example.com/tags/c/</link>
+    <description>Recent content in C on Qi Le</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sun, 11 Feb 2018 12:41:05 -0500</lastBuildDate><atom:link href="https://example.com/tags/c/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Dynamic Mobile Sensor Network Relay</title>
+      <link>https://example.com/projects/creations/network/</link>
+      <pubDate>Sun, 11 Feb 2018 12:41:05 -0500</pubDate>
+      
+      <guid>https://example.com/projects/creations/network/</guid>
+      <description>Applied Kademlia, a Distributed Hash Table to build a peer-to-peer message network, which reduced the routing time by 75% compared to classic routing algorithms. Kept track of the dynamic position of mobile users by building a multi-thread control server and base stations, cut down the execution time by 28.78%. Handled requests and responses with gRPC. Updated and Stored the routing tables in PostgreSQL by utilizing libpqxx library.</description>
+    </item>
+    
+  </channel>
+</rss>

@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Early Stop on Qi Le</title>
+    <link>https://example.com/tags/early-stop/</link>
+    <description>Recent content in Early Stop on Qi Le</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sun, 11 Feb 2018 12:41:05 -0500</lastBuildDate><atom:link href="https://example.com/tags/early-stop/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Reflection removal without training: a single image perspective</title>
+      <link>https://example.com/projects/creations/computer_vision/</link>
+      <pubDate>Sun, 11 Feb 2018 12:41:05 -0500</pubDate>
+      
+      <guid>https://example.com/projects/creations/computer_vision/</guid>
+      <description>Deep Image Prior(DIP), which uses a randomly initialized neural network as a handcrafted prior for standard inverse problems, such as denoising, superresolution, and inpainting, is used in this project. We add the total variation norm to enhance the performance of DIP and propose an effective algorithm to stop the iteration automatically to avoid the degradation of the image.</description>
+    </item>
+    
+  </channel>
+</rss>
