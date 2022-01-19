@@ -51,16 +51,13 @@
     <loc>https://qi-le1.github.io/tags/</loc>
     <lastmod>2020-01-07T17:09:26+00:00</lastmod>
   </url><url>
-    <loc>https://qi-le1.github.io/tags/atlassian-ecosystem/</loc>
+    <loc>https://qi-le1.github.io/projects/creations/ml/</loc>
     <lastmod>2018-02-11T12:41:05-05:00</lastmod>
   </url><url>
     <loc>https://qi-le1.github.io/tags/aws/</loc>
     <lastmod>2018-02-11T12:41:05-05:00</lastmod>
   </url><url>
     <loc>https://qi-le1.github.io/tags/bluetooth-low-energy/</loc>
-    <lastmod>2018-02-11T12:41:05-05:00</lastmod>
-  </url><url>
-    <loc>https://qi-le1.github.io/tags/bosh/</loc>
     <lastmod>2018-02-11T12:41:05-05:00</lastmod>
   </url><url>
     <loc>https://qi-le1.github.io/tags/c/</loc>
@@ -78,9 +75,6 @@
     <loc>https://qi-le1.github.io/tags/deep-learning/</loc>
     <lastmod>2018-02-11T12:41:05-05:00</lastmod>
   </url><url>
-    <loc>https://qi-le1.github.io/tags/devops/</loc>
-    <lastmod>2018-02-11T12:41:05-05:00</lastmod>
-  </url><url>
     <loc>https://qi-le1.github.io/projects/creations/network/</loc>
     <lastmod>2018-02-11T12:41:05-05:00</lastmod>
   </url><url>
@@ -93,6 +87,9 @@
     <loc>https://qi-le1.github.io/tags/flask/</loc>
     <lastmod>2018-02-11T12:41:05-05:00</lastmod>
   </url><url>
+    <loc>https://qi-le1.github.io/tags/gan/</loc>
+    <lastmod>2018-02-11T12:41:05-05:00</lastmod>
+  </url><url>
     <loc>https://qi-le1.github.io/tags/geomagnetism/</loc>
     <lastmod>2018-02-11T12:41:05-05:00</lastmod>
   </url><url>
@@ -102,19 +99,13 @@
     <loc>https://qi-le1.github.io/projects/creations/carfinding/</loc>
     <lastmod>2018-02-11T12:41:05-05:00</lastmod>
   </url><url>
-    <loc>https://qi-le1.github.io/tags/java/</loc>
-    <lastmod>2018-02-11T12:41:05-05:00</lastmod>
-  </url><url>
     <loc>https://qi-le1.github.io/tags/jquery/</loc>
     <lastmod>2018-02-11T12:41:05-05:00</lastmod>
   </url><url>
     <loc>https://qi-le1.github.io/tags/js/</loc>
     <lastmod>2018-02-11T12:41:05-05:00</lastmod>
   </url><url>
-    <loc>https://qi-le1.github.io/projects/creations/ml/</loc>
-    <lastmod>2018-02-11T12:41:05-05:00</lastmod>
-  </url><url>
-    <loc>https://qi-le1.github.io/tags/monit/</loc>
+    <loc>https://qi-le1.github.io/tags/machine-learning/</loc>
     <lastmod>2018-02-11T12:41:05-05:00</lastmod>
   </url><url>
     <loc>https://qi-le1.github.io/tags/mysql/</loc>
@@ -172,6 +163,9 @@
     <loc>https://qi-le1.github.io/tags/culture/</loc>
     <lastmod>2016-11-08T00:00:00+00:00</lastmod>
   </url><url>
+    <loc>https://qi-le1.github.io/tags/devops/</loc>
+    <lastmod>2016-11-08T00:00:00+00:00</lastmod>
+  </url><url>
     <loc>https://qi-le1.github.io/tags/apache/</loc>
     <lastmod>2009-01-01T14:09:10+00:00</lastmod>
   </url><url>
@@ -195,13 +189,11 @@
   </url><url>
     <loc>https://qi-le1.github.io/tags/bamboo/</loc>
   </url><url>
-    <loc>https://qi-le1.github.io/tags/bash/shell/</loc>
-  </url><url>
     <loc>https://qi-le1.github.io/tags/ci/cd-pipelines/</loc>
+  </url><url>
+    <loc>https://qi-le1.github.io/tags/java/</loc>
   </url><url>
     <loc>https://qi-le1.github.io/search/</loc>
     <priority>0.1</priority>
-  </url><url>
-    <loc>https://qi-le1.github.io/tags/xml/xslt/</loc>
   </url>
 </urlset>

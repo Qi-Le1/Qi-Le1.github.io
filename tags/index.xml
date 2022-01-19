@@ -53,15 +53,6 @@
     </item>
     
     <item>
-      <title>Atlassian Ecosystem</title>
-      <link>https://qi-le1.github.io/tags/atlassian-ecosystem/</link>
-      <pubDate>Sun, 11 Feb 2018 12:41:05 -0500</pubDate>
-      
-      <guid>https://qi-le1.github.io/tags/atlassian-ecosystem/</guid>
-      <description></description>
-    </item>
-    
-    <item>
       <title>AWS</title>
       <link>https://qi-le1.github.io/tags/aws/</link>
       <pubDate>Sun, 11 Feb 2018 12:41:05 -0500</pubDate>
@@ -76,15 +67,6 @@
       <pubDate>Sun, 11 Feb 2018 12:41:05 -0500</pubDate>
       
       <guid>https://qi-le1.github.io/tags/bluetooth-low-energy/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>BOSH</title>
-      <link>https://qi-le1.github.io/tags/bosh/</link>
-      <pubDate>Sun, 11 Feb 2018 12:41:05 -0500</pubDate>
-      
-      <guid>https://qi-le1.github.io/tags/bosh/</guid>
       <description></description>
     </item>
     
@@ -134,15 +116,6 @@
     </item>
     
     <item>
-      <title>DevOps</title>
-      <link>https://qi-le1.github.io/tags/devops/</link>
-      <pubDate>Sun, 11 Feb 2018 12:41:05 -0500</pubDate>
-      
-      <guid>https://qi-le1.github.io/tags/devops/</guid>
-      <description></description>
-    </item>
-    
-    <item>
       <title>Early Stop</title>
       <link>https://qi-le1.github.io/tags/early-stop/</link>
       <pubDate>Sun, 11 Feb 2018 12:41:05 -0500</pubDate>
@@ -170,6 +143,15 @@
     </item>
     
     <item>
+      <title>GAN</title>
+      <link>https://qi-le1.github.io/tags/gan/</link>
+      <pubDate>Sun, 11 Feb 2018 12:41:05 -0500</pubDate>
+      
+      <guid>https://qi-le1.github.io/tags/gan/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>Geomagnetism</title>
       <link>https://qi-le1.github.io/tags/geomagnetism/</link>
       <pubDate>Sun, 11 Feb 2018 12:41:05 -0500</pubDate>
@@ -184,15 +166,6 @@
       <pubDate>Sun, 11 Feb 2018 12:41:05 -0500</pubDate>
       
       <guid>https://qi-le1.github.io/tags/heroku/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Java</title>
-      <link>https://qi-le1.github.io/tags/java/</link>
-      <pubDate>Sun, 11 Feb 2018 12:41:05 -0500</pubDate>
-      
-      <guid>https://qi-le1.github.io/tags/java/</guid>
       <description></description>
     </item>
     
@@ -215,11 +188,11 @@
     </item>
     
     <item>
-      <title>monit</title>
-      <link>https://qi-le1.github.io/tags/monit/</link>
+      <title>Machine Learning</title>
+      <link>https://qi-le1.github.io/tags/machine-learning/</link>
       <pubDate>Sun, 11 Feb 2018 12:41:05 -0500</pubDate>
       
-      <guid>https://qi-le1.github.io/tags/monit/</guid>
+      <guid>https://qi-le1.github.io/tags/machine-learning/</guid>
       <description></description>
     </item>
     
@@ -341,6 +314,15 @@
     </item>
     
     <item>
+      <title>DevOps</title>
+      <link>https://qi-le1.github.io/tags/devops/</link>
+      <pubDate>Tue, 08 Nov 2016 00:00:00 +0000</pubDate>
+      
+      <guid>https://qi-le1.github.io/tags/devops/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>apache</title>
       <link>https://qi-le1.github.io/tags/apache/</link>
       <pubDate>Thu, 01 Jan 2009 14:09:10 +0000</pubDate>
@@ -395,15 +377,6 @@
     </item>
     
     <item>
-      <title>bash/shell</title>
-      <link>https://qi-le1.github.io/tags/bash/shell/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://qi-le1.github.io/tags/bash/shell/</guid>
-      <description></description>
-    </item>
-    
-    <item>
       <title>CI/CD pipelines</title>
       <link>https://qi-le1.github.io/tags/ci/cd-pipelines/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
@@ -413,11 +386,11 @@
     </item>
     
     <item>
-      <title>xml/xslt</title>
-      <link>https://qi-le1.github.io/tags/xml/xslt/</link>
+      <title>Java</title>
+      <link>https://qi-le1.github.io/tags/java/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://qi-le1.github.io/tags/xml/xslt/</guid>
+      <guid>https://qi-le1.github.io/tags/java/</guid>
       <description></description>
     </item>
     

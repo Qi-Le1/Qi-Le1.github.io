@@ -8,6 +8,15 @@
     <language>en-us</language>
     <lastBuildDate>Tue, 07 Jan 2020 15:00:28 +0000</lastBuildDate><atom:link href="https://qi-le1.github.io/projects/creations/index.xml" rel="self" type="application/rss+xml" />
     <item>
+      <title>Anime Character Generation</title>
+      <link>https://qi-le1.github.io/projects/creations/ml/</link>
+      <pubDate>Sun, 11 Feb 2018 12:41:05 -0500</pubDate>
+      
+      <guid>https://qi-le1.github.io/projects/creations/ml/</guid>
+      <description>Gain an understanding of the structure and theory of the advanced GANs models. We implement and optimize both WGAN and StyleGAN. We apply the noise to the WGAN, use the loss function of WGAN in StyleGAN, and further compare their performance.</description>
+    </item>
+    
+    <item>
       <title>Dynamic Mobile Sensor Network Relay</title>
       <link>https://qi-le1.github.io/projects/creations/network/</link>
       <pubDate>Sun, 11 Feb 2018 12:41:05 -0500</pubDate>
@@ -23,15 +32,6 @@
       
       <guid>https://qi-le1.github.io/projects/creations/carfinding/</guid>
       <description>Indoor positioning provides a new experience for the users, and becomes more and more important for the car-finding in the underground garages. Researchers have come up with many accurate indoor localization systems in the laboratory. However, they can hardly been deployed in the garages due to many challenges in real world. In this work, we propose a smartphone-based indoor positioning system LocateMe, which leverages radio signals and geomagnetic fields to provide fingerprinting-based localization service in garages.</description>
-    </item>
-    
-    <item>
-      <title>Machine Learning</title>
-      <link>https://qi-le1.github.io/projects/creations/ml/</link>
-      <pubDate>Sun, 11 Feb 2018 12:41:05 -0500</pubDate>
-      
-      <guid>https://qi-le1.github.io/projects/creations/ml/</guid>
-      <description>BOSH (Bosh Outer SHell) &amp;ldquo;&amp;hellip;is an open source tool for release engineering, deployment, lifecycle management, and monitoring of distributed systems.&amp;rdquo; And it&amp;rsquo;s amazingly powerful. This examples uses BOSH to provision an Alassian vendor app running on JDK along with the support Postgres database and agents to support it. The releases manages the health of services and will automatically provision, start/stop processes across the various services.</description>
     </item>
     
     <item>
@@ -67,7 +67,7 @@
       <pubDate>Sun, 11 Feb 2018 12:41:05 -0500</pubDate>
       
       <guid>https://qi-le1.github.io/projects/creations/web/</guid>
-      <description>Designed a Game Information Interactive Reviewing Website to interact with visitors. Increasing cost time for associative-word search from 3951ms to 6ms under 1000 executions using implemented Trie Tree and Python Session, compared to PostgreSQL fuzzy search. Supported the authentication using flask + authlib + auth0. Built a data warehouse to store multi-sourced data about game Information and updated comments with PostgreSQL. Utilized jQuery and Pure CSS to build the frontend which provides users with self-guide exploration for game content</description>
+      <description>Designed a Game Information Interactive Reviewing Website to interact with visitors. Increasing cost time for associative-word search from 3951ms to 6ms under 1000 executions using implemented Trie Tree and Python Session, compared to PostgreSQL fuzzy search. Supported the authentication using flask + authlib + auth0. Built a data warehouse to store multi-sourced data about game Information and updated comments with PostgreSQL. Utilized jQuery and Pure CSS to build the frontend which provides users with self-guide exploration for game content (https://secret-sea-72576.</description>
     </item>
     
   </channel>

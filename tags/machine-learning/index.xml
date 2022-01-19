@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Machine Learning on Qi Le</title>
+    <link>https://qi-le1.github.io/tags/machine-learning/</link>
+    <description>Recent content in Machine Learning on Qi Le</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sun, 11 Feb 2018 12:41:05 -0500</lastBuildDate><atom:link href="https://qi-le1.github.io/tags/machine-learning/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Anime Character Generation</title>
+      <link>https://qi-le1.github.io/projects/creations/ml/</link>
+      <pubDate>Sun, 11 Feb 2018 12:41:05 -0500</pubDate>
+      
+      <guid>https://qi-le1.github.io/projects/creations/ml/</guid>
+      <description>Gain an understanding of the structure and theory of the advanced GANs models. We implement and optimize both WGAN and StyleGAN. We apply the noise to the WGAN, use the loss function of WGAN in StyleGAN, and further compare their performance.</description>
+    </item>
+    
+  </channel>
+</rss>

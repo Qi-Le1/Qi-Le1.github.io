@@ -13,7 +13,7 @@
       <pubDate>Sun, 11 Feb 2018 12:41:05 -0500</pubDate>
       
       <guid>https://qi-le1.github.io/projects/creations/web/</guid>
-      <description>Designed a Game Information Interactive Reviewing Website to interact with visitors. Increasing cost time for associative-word search from 3951ms to 6ms under 1000 executions using implemented Trie Tree and Python Session, compared to PostgreSQL fuzzy search. Supported the authentication using flask + authlib + auth0. Built a data warehouse to store multi-sourced data about game Information and updated comments with PostgreSQL. Utilized jQuery and Pure CSS to build the frontend which provides users with self-guide exploration for game content</description>
+      <description>Designed a Game Information Interactive Reviewing Website to interact with visitors. Increasing cost time for associative-word search from 3951ms to 6ms under 1000 executions using implemented Trie Tree and Python Session, compared to PostgreSQL fuzzy search. Supported the authentication using flask + authlib + auth0. Built a data warehouse to store multi-sourced data about game Information and updated comments with PostgreSQL. Utilized jQuery and Pure CSS to build the frontend which provides users with self-guide exploration for game content (https://secret-sea-72576.</description>
     </item>
     
   </channel>
