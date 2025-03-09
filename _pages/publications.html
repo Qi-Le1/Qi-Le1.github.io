@@ -5,32 +5,216 @@ permalink: /publications/
 author_profile: true
 ---
 
-{% if site.author.googlescholar %}
-  <div class="wordwrap">You can also find my articles on <a href="{{site.author.googlescholar}}">my Google Scholar profile</a>.</div>
-{% endif %}
+<head>
+<!-- Google tag (gtag.js) -->
+<script async src="https://scholar.google.com/citations?user=YVUeg_AAAAAJ&hl=en"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
 
-{% include base_path %}
+  gtag('config', 'G-P7NJMYKVS8');
+</script>
+</head>
 
-<!-- New style rendering if publication categories are defined -->
-{% if site.publication_category %}
-  {% for category in site.publication_category  %}
-    {% assign title_shown = false %}
-    {% for post in site.publications reversed %}
-      {% if post.category != category[0] %}
-        {% continue %}
-      {% endif %}
-      {% unless title_shown %}
-        <h2>{{ category[1].title }}</h2><hr />
-        {% assign title_shown = true %}
-      {% endunless %}
-      {% include archive-single.html %}
-    {% endfor %}
-  {% endfor %}
-{% else %}
-  {% for post in site.publications reversed %}
-    {% include archive-single.html %}
-  {% endfor %}
-{% endif %}
+<!-- Default Statcounter code for Github Page
+https://chalianwar.github.io/ -->
+<script type="text/javascript">
+var sc_project=12954458; 
+var sc_invisible=1; 
+var sc_security="44ee4e0a"; 
+</script>
+<script type="text/javascript"
+src="https://www.statcounter.com/counter/counter.js"
+async></script>
+<noscript><div class="statcounter"><a title="web counter"
+href="https://statcounter.com/" target="_blank"><img
+class="statcounter"
+src="https://c.statcounter.com/12954458/0/44ee4e0a/1/"
+alt="web counter"
+referrerPolicy="no-referrer-when-downgrade"></a></div></noscript>
+<!-- End of Statcounter Code -->
+
+<!DOCTYPE html>
+<html>
+
+    <head>
+        <title>Publication Page</title>
+        <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.5.2/css/bootstrap.min.css">
+        <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.15.1/css/all.min.css">
+
+
+  <!-- Google tag (gtag.js) -->
+  <script async src="https://www.googletagmanager.com/gtag/js?id=G-P7NJMYKVS8"></script>
+  <script>
+    window.dataLayer = window.dataLayer || [];
+    function gtag(){dataLayer.push(arguments);}
+    gtag('js', new Date());
+
+    gtag('config', 'G-P7NJMYKVS8');
+  </script>
+
+        <style>
+            body {
+                font-family: Arial, sans-serif;
+            }
+
+            h1 {
+                font-size: 30px; /* Adjust the size as needed */
+                font-weight: bold;
+            }
+
+            h2 {
+                font-size: 30px; /* Adjust the size as needed */
+            }
+          
+            .conference-tag {
+                background-color: #007bff;
+                color: white;
+                height: 30px;
+                width: 100px;
+                border: 2px solid #007bff;
+                font-size: 11pt;
+                display: inline-flex;
+                justify-content: center;
+                align-items: center;
+                border-radius: 15px;
+                margin-right: 20px;
+                margin-bottom: 20px;
+            }
+            .publication-card {
+                display: flex;
+                flex-direction: row;
+                border: 1px solid lightgray;
+                border-radius: 10px;
+                margin-bottom: 20px;
+                padding: 10px;
+                box-shadow: 0 4px 8px 0 rgba(0,0,0,0.2);
+            }
+            .publication-card p {
+                margin: 0;
+                font-size: 16px;
+                flex: 1;
+            }
+            .publication-link {
+                color: #007bff;
+                font-weight: bold;
+                text-decoration: none;
+            }
+            .publication-link:hover {
+                color: #0056b3;
+            }
+            .publication-icon {
+                color: #007bff;
+                margin-right: 5px;
+                font-size: 20px;
+            }
+            .publication-icon:hover {
+                color: #0056b3;
+            }
+            .icon-links {
+                position: absolute;
+                bottom: 10px;
+                left: 125px;
+            }
+
+        </style>
+    </head>
+
+<body>
+<div class="container mt-5">
+
+
+<h2><strong>2025</strong></h2>
+  
+<div class="publication-card">
+  <div class="conference-tag">ICLR 2025</div>
+  <p><a class="publication-link" href="https://iclr.cc/">Probe Pruning: Accelerating LLMs through Dynamic Pruning via Model-Probing.</a><br />Qi Le, Enmao Diao, Ziyan Wang, Xinran Wang, Jie Ding, Li Yang, Ali Anwar<br><em>The Thirteenth International Conference on Learning Representations (ICLR), 2025</em>
+  </br>
+  </p>
+  </div>
+
+<div class="publication-card">
+<div class="conference-tag">ICLR 2025</div>
+<p><a class="publication-link" href="https://iclr.cc/">MAP: Multi-Human-Value Alignment Palette.</a><br />Xinran Wang, Qi Le, Ammar Ahmed, Enmao Diao, Yi Zhou, Nathalie Baracaldo, Jie Ding, Ali Anwar<br><em>The Thirteenth International Conference on Learning Representations (ICLR), 2025 <br> [Oral Presentation]</em>
+</br>
+</p>
+</div>
+  
+
+<div class="publication-card">
+<div class="conference-tag">NAACL'25</div>
+<p><a class="publication-link" href="https://2025.naacl.org/">AID: Adaptive Integration of Detectors for Safe AI with Language Models.</a><br />Xinran Wang, Enmao Diao, Qi Le, Jie Ding, Ali Anwar<br><em>The 2025 Annual Conference of the Nations of the Americas Chapter of the ACL (NAACL), 2025 <br> [Main Conference]</em>
+</br>
+</p>
+</div>
+  
+
+<div class="publication-card">
+<div class="conference-tag">IPDPS'25</div>
+<p><a class="publication-link" href="https://www.ipdps.org/2025-announcements.html">IP-FL: Incentive-driven Personalization in Federated Learning.</a><br />Ahmad Khan, Xinran Wang, Qi Le, Zain ul Abdeen, Azal Ahmad Khan, Haider Ali, Ming Jin, Jie Ding, Ali R. Butt, Ali Anwar<br><em>The 39th IEEE International Parallel & Distributed Processing Symposium (IPDPS), 2025</em>
+</br>
+</p>
+</div>
+
+
+  
+<h2><strong>2024</strong></h2>
+
+
+<div class="publication-card">
+<div class="conference-tag">BigData 2024</div>
+<p><a class="publication-link" href="https://www3.cs.stonybrook.edu/~ieeebigdata2024/">DynamicFL: Federated Learning with Dynamic Communication Resource Allocation.</a><br />Qi Le, Enmao Diao, Xinran Wang, Ahmad Faraz Khan, Vahid Tarokh, Jie Ding, and Ali Anwar<br><em>IEEE International Conference on Big Data (BigData), 2024 <br>[Best Student Paper Award]</em>
+</br>
+<a class="publication-icon" href="../files/DynamicFL.pdf"><i class="fas fa-file-pdf"></i></a>
+</p>
+</div>
+  
+<div class="publication-card">
+<div class="conference-tag">BigData 2024</div>
+<p><a class="publication-link" href="https://www3.cs.stonybrook.edu/~ieeebigdata2024/">ICL: An Incentivized Collaborative Learning Framework.</a><br />Xinran Wang, Qi Le, Ahmad Khan, Jie Ding, and Ali Anwar<br><em>IEEE International Conference on Big Data (BigData), 2024</em>
+</br>
+</p>
+</div>
 
 
 
+<!--  
+
+<div class="publication-card">
+    <div class="conference-tag">arXiv'24</div>
+    <p>Everything You Always Wanted to Know About Storage Compressibility of Pre-Trained ML Models but Were Afraid to Ask.<br>Zhaoyuan Su, Ammar Ahmed, Zirui Wang, Ali Anwar, Yue Cheng<br><a class="publication-link" href="https://arxiv.org/pdf/2402.13429.pdf">arXiv:2402.13429</a></p>
+</div>
+  
+<div class="publication-card">
+    <div class="conference-tag">arXiv'24</div>
+    <p>Personalized Federated Learning Techniques: Empirical Analysis.<br>Azal Ahmad Khan, Ahmad Faraz Khan, Haider Ali, Ali Anwar<br><a class="publication-link" href="https://arxiv.org/pdf/2409.07631">arXiv:2409.06805</a></p>
+</div>
+
+
+<div class="publication-card">
+<div class="conference-tag">arXiv'24</div>
+<p>DynamicFL: Federated Learning with Dynamic Communication Resource Allocation.</a><br />Qi Le, Enmao Diao, Xinran Wang, Ahmad Faraz Khan, Vahid Tarokh, Jie Ding, and Ali Anwar<br><em>arXiv, 2024</em>
+</br>
+<a class="publication-icon" href="../files/DynamicFL.pdf"><i class="fas fa-file-pdf"></i></a>
+</p>
+</div>
+-->
+          
+
+<h2><strong>2022</strong></h2>
+
+<div class="publication-card">
+    <div class="conference-tag">Asilomar 2022</div>
+    <p><a class="publication-link" href="https://www.asilomarsscconf.org/">Personalized Federated Recommender Systems with Private and Partially Federated AutoEncoders.</a><br />Qi Le, Enmao Diao, Xinran Wang, Ali Anwar, Vahid Tarokh, Jie Ding<br><em>To appear in the Proceedings of the Asilomar Conference on Signals, Systems, and Computers (Asilomar), 2022</em></p>
+</div>
+
+
+           
+            <!-- More conference publications here... -->
+</div>
+
+        <script src="https://code.jquery.com/jquery-3.5.1.slim.min.js"></script>
+        <script src="https://stackpath.bootstrapcdn.com/bootstrap/4.5.2/js/bootstrap.bundle.min.js"></script>
+    </body>
+</html>

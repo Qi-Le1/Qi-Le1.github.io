@@ -13,12 +13,19 @@ My research interest includes efficient machine learning and distributed machine
 
 <!-- ———————————————— -->
 
-News
+<!-- News
 ------
 2025.01:  Two papers ([Probe Pruning](https://arxiv.org/abs/2502.15618) and [MAP](https://arxiv.org/abs/2410.19198)(Oral Presentation (1.8%))) accepted by ICLR 2025
 2024.12:  One paper 'AID: Adaptive Integration of Detectors for Safe AI with Language Models' accepted by NAACL 2025
 2024.12:  Two papers ([DynamicFL](https://ieeexplore.ieee.org/abstract/document/10826074)(Best Student Paper) and [ICL](https://ieeexplore.ieee.org/abstract/document/10825643)) accepted by IEEE BigData 2024
-2022.12:  One paper '[Personalized Federated Recommender Systems with Private and Partially Federated AutoEncoders](https://ieeexplore.ieee.org/document/10051918)' accepted by Asilomar 2022
+2022.12:  One paper '[Personalized Federated Recommender Systems with Private and Partially Federated AutoEncoders](https://ieeexplore.ieee.org/document/10051918)' accepted by Asilomar 2022 -->
+
+News  
+...........  
+- **2025.01**: Two papers ([Probe Pruning](https://arxiv.org/abs/2502.15618) and [MAP](https://arxiv.org/abs/2410.19198) (Oral Presentation (1.8%))) accepted by ICLR 2025.  
+- **2024.12**: One paper **AID: Adaptive Integration of Detectors for Safe AI with Language Models** accepted by NAACL 2025.  
+- **2024.12**: Two papers ([DynamicFL](https://ieeexplore.ieee.org/abstract/document/10826074) (Best Student Paper) and [ICL](https://ieeexplore.ieee.org/abstract/document/10825643)) accepted by IEEE BigData 2024.  
+- **2022.12**: One paper **[Personalized Federated Recommender Systems with Private and Partially Federated AutoEncoders](https://ieeexplore.ieee.org/document/10051918)** accepted by Asilomar 2022.  
 
 <!-- This is the front page of a website that is powered by the [Academic Pages template](https://github.com/academicpages/academicpages.github.io) and hosted on GitHub pages. [GitHub pages](https://pages.github.com) is a free service in which websites are built and hosted from code and data stored in a GitHub repository, automatically updating when a new commit is made to the repository. This template was forked from the [Minimal Mistakes Jekyll Theme](https://mmistakes.github.io/minimal-mistakes/) created by Michael Rose, and then extended to support the kinds of content that academics have: publications, talks, teaching, a portfolio, blog posts, and a dynamically-generated CV. You can fork [this template](https://github.com/academicpages/academicpages.github.io) right now, modify the configuration and markdown files, add your own PDFs and other content, and have your own site for free, with no ads!
 
