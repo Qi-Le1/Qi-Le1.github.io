@@ -316,6 +316,18 @@ whitelist:
   - jemoji
 
 
+# publication_category:
+#    books:
+#      title: 'Books'
+#    manuscripts:
+#      title: 'Journal Articles'    
+#    # books:
+#    #   title: 'Books'
+#    # manuscripts:
+#    #   title: 'Journal Articles'    
+#    conferences:
+#      title: 'Conference Papers'
+
 # Archives
 #  Type
 #  - GitHub Pages compatible archive pages built with Liquid ~> type: liquid (default)
