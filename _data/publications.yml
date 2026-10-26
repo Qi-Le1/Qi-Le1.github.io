@@ -1,0 +1,116 @@
+- id: obmerge
+  title: "OBMerge: Optimal Brain Merge via Iterative Parameter Replacement"
+  authors: ["Qi Le", "Enmao Diao", "Ziyan Wang", "Xinran Wang", "Li Yang", "Jie Ding", "Ali Anwar"]
+  year: 2027
+  venue: "ICLR 2027"
+  status: submitted
+
+- id: projcache
+  title: "ProjCache: Output-Projected KV Cache Eviction with OBS-Inspired Compensation"
+  authors: ["Qi Le", "Enmao Diao", "Ziyan Wang", "Xinran Wang", "Li Yang", "Jie Ding", "Ali Anwar"]
+  year: 2027
+  venue: "ICLR 2027"
+  status: submitted
+
+- id: think-before-you-prune
+  title: "Think Before You Prune: Self-Reflective Structured Pruning for Reasoning Language Models"
+  authors: ["Ziyan Wang", "Enmao Diao", "Qi Le", "Pu Wang", "Guanchu Wang", "Minwoo Lee", "Shu-ping Yeh", "Li Yang"]
+  year: 2026
+  venue: "DAC 2026"
+  status: published
+  paper_url: "https://arxiv.org/abs/2512.02185"
+
+- id: from-local-to-global
+  title: "From Local to Global: Revisiting Structured Pruning Paradigms for Large Language Models"
+  authors: ["Ziyan Wang", "Enmao Diao", "Qi Le", "Pu Wang", "Minwoo Lee", "Shu-ping Yeh", "Evgeny Stupachenko", "Hao Feng", "Li Yang"]
+  year: 2026
+  venue: "ACL 2026"
+  status: published
+  award: "Outstanding Paper"
+  paper_url: "https://aclanthology.org/2026.acl-long.1653/"
+
+- id: ahe
+  title: "AHE: Adaptive Homomorphic Encryption for Customizable Privacy in Heterogeneous Federated Learning"
+  authors: ["Jiaxiang Tang", "Xinran Wang", "Qi Le", "Kangjie Lu", "Zhi-Li Zhang", "Ali Anwar"]
+  year: 2026
+  venue: "IEEE INFOCOM 2026"
+  status: published
+  paper_url: "https://doi.org/10.1109/INFOCOM59046.2026.11571699"
+
+- id: beyond-expectations
+  title: "Beyond Expectations: Quantile-Guided Alignment for Risk-Calibrated Language Models"
+  authors: ["Xinran Wang", "Jin Du", "Azal Ahmad Khan", "Qi Le", "Enmao Diao", "Jiawei Zhou", "Jie Ding", "Ali Anwar"]
+  year: 2025
+  venue: "NeurIPS 2025"
+  status: published
+  award: "Spotlight"
+  paper_url: "https://papers.nips.cc/paper_files/paper/2025/hash/f32edb64f7f18df0442e5b55bdfefd43-Abstract-Conference.html"
+
+- id: probe-pruning
+  title: "Probe Pruning: Accelerating LLMs through Dynamic Pruning via Model-Probing"
+  authors: ["Qi Le", "Enmao Diao", "Ziyan Wang", "Xinran Wang", "Jie Ding", "Li Yang", "Ali Anwar"]
+  year: 2025
+  venue: "ICLR 2025"
+  status: published
+  paper_url: "https://proceedings.iclr.cc/paper_files/paper/2025/hash/b44efaa3b7a389ea56c7ee9d6589e800-Abstract-Conference.html"
+  code_url: "https://github.com/Qi-Le1/Probe_Pruning"
+
+- id: map
+  title: "MAP: Multi-Human-Value Alignment Palette"
+  authors: ["Xinran Wang", "Qi Le", "Ammar Ahmed", "Enmao Diao", "Yi Zhou", "Nathalie Baracaldo", "Jie Ding", "Ali Anwar"]
+  year: 2025
+  venue: "ICLR 2025"
+  status: published
+  award: "Oral Presentation"
+  paper_url: "https://proceedings.iclr.cc/paper_files/paper/2025/hash/ca549a1547bc8e8ca2df968aeaf57715-Abstract-Conference.html"
+
+- id: aid
+  title: "AID: Adaptive Integration of Detectors for Safe AI with Language Models"
+  authors: ["Xinran Wang", "Enmao Diao", "Qi Le", "Jie Ding", "Ali Anwar"]
+  year: 2025
+  venue: "NAACL 2025, Main Conference Long Paper"
+  status: published
+  paper_url: "https://aclanthology.org/2025.naacl-long.229/"
+
+- id: ip-fl
+  title: "IP-FL: Incentive-Driven Personalization in Federated Learning"
+  authors: ["Ahmad Faraz Khan", "Xinran Wang", "Qi Le", "Zain ul Abdeen", "Azal Ahmad Khan", "Haider Ali", "Ming Jin", "Jie Ding", "Ali R. Butt", "Ali Anwar"]
+  year: 2025
+  venue: "IEEE IPDPS 2025"
+  status: published
+  paper_url: "https://doi.org/10.1109/IPDPS64566.2025.00053"
+
+- id: dynamicfl
+  title: "DynamicFL: Federated Learning with Dynamic Communication Resource Allocation"
+  authors: ["Qi Le", "Enmao Diao", "Xinran Wang", "Ahmad Faraz Khan", "Vahid Tarokh", "Jie Ding", "Ali Anwar"]
+  year: 2024
+  venue: "IEEE BigData 2024"
+  status: published
+  award: "Best Student Paper Award"
+  paper_url: "https://ieeexplore.ieee.org/abstract/document/10826074"
+  code_url: "https://github.com/Qi-Le1/DynamicFL"
+
+- id: icl
+  title: "ICL: An Incentivized Collaborative Learning Framework"
+  authors: ["Xinran Wang", "Qi Le", "Ahmad Faraz Khan", "Jie Ding", "Ali Anwar"]
+  year: 2024
+  venue: "IEEE BigData 2024"
+  status: published
+  paper_url: "https://ieeexplore.ieee.org/abstract/document/10825643"
+
+- id: cola
+  title: "ColA: Collaborative Adaptation with Gradient Learning"
+  authors: ["Enmao Diao", "Qi Le", "Suya Wu", "Xinran Wang", "Ali Anwar", "Jie Ding", "Vahid Tarokh"]
+  year: 2024
+  venue: "arXiv:2404.13844"
+  status: preprint
+  paper_url: "https://arxiv.org/abs/2404.13844"
+  code_url: "https://github.com/diaoenmao/ColA-Collaborative-Adaptation-with-Gradient-Learning"
+
+- id: personalized-federated-recommender
+  title: "Personalized Federated Recommender Systems with Private and Partially Federated AutoEncoders"
+  authors: ["Qi Le", "Enmao Diao", "Xinran Wang", "Ali Anwar", "Vahid Tarokh", "Jie Ding"]
+  year: 2022
+  venue: "Asilomar 2022"
+  status: published
+  paper_url: "https://ieeexplore.ieee.org/document/10051918"
