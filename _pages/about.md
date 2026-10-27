@@ -10,7 +10,7 @@ redirect_from:
 
 {% include research-styles.html %}
 
-I am a Ph.D. student in [Computer Science & Engineering](https://cse.umn.edu/cs) at the [University of Minnesota, Twin Cities](https://twin-cities.umn.edu/), advised by Prof. [Ali Anwar](https://chalianwar.github.io/), Prof. [Jie Ding](https://jding.org/), and Dr. [Enmao Diao](https://diaoenmao.com/).
+I am a Ph.D. student in [Computer Science & Engineering](https://cse.umn.edu/cs) at the [University of Minnesota, Twin Cities](https://twin-cities.umn.edu/), advised by Prof. [Ali Anwar](https://chalianwar.github.io/) and Prof. [Jie Ding](https://jding.org/).
 
 My research focuses on making language models more efficient and trustworthy. I work on **structured pruning, model merging, and KV-cache compression**, with related projects in model adaptation, multi-value alignment, content safety, and federated learning.
 
