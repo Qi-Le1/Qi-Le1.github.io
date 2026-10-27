@@ -1,6 +1,6 @@
 Qi Le:
   name: "Qi Le"
-  uri: "https://qi-le1.github.io/"
+  uri:
   email: "le000288@umn.edu"
-  bio: "Ph.D. candidate researching efficient and trustworthy language models."
+  bio: "Ph.D. candidate"
   avatar: "profile.png"

@@ -25,10 +25,10 @@ author:
   avatar           : "profile.png"
   name             : "Qi Le"
   pronouns         : # example: "she/her"  
-  bio              : "Ph.D. candidate · Efficient and trustworthy language models"
+  bio              : "Ph.D. candidate"
   location         : "Minneapolis, Minnesota"
   # employer         : "Red Brick University"
-  uri              : "https://qi-le1.github.io/"
+  uri              :
   email            : "le000288@umn.edu" 
 
   # Academic websites
