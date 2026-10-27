@@ -1,14 +1,14 @@
 - id: obmerge
   title: "OBMerge: Optimal Brain Merge via Iterative Parameter Replacement"
   authors: ["Qi Le", "Enmao Diao", "Ziyan Wang", "Xinran Wang", "Li Yang", "Jie Ding", "Ali Anwar"]
-  year: 2027
+  year: 2026
   venue: "ICLR 2027"
   status: submitted
 
 - id: projcache
   title: "ProjCache: Output-Projected KV Cache Eviction with OBS-Inspired Compensation"
   authors: ["Qi Le", "Enmao Diao", "Ziyan Wang", "Xinran Wang", "Li Yang", "Jie Ding", "Ali Anwar"]
-  year: 2027
+  year: 2026
   venue: "ICLR 2027"
   status: submitted
 
