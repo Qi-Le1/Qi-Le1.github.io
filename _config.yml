@@ -25,7 +25,7 @@ author:
   avatar           : "profile.png"
   name             : "Qi Le"
   pronouns         : # example: "she/her"  
-  bio              : "Ph.D. candidate"
+  bio              : "Ph.D. candidate<br>Distributed Machine Learning, Efficient Machine Learning"
   location         : "Minneapolis, Minnesota"
   # employer         : "Red Brick University"
   uri              :
