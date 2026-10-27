@@ -1,0 +1,19 @@
+{% assign publication_years = site.data.publications | group_by: "year" %}
+{% for year in publication_years %}
+<section class="publication-year" aria-labelledby="publications-{{ year.name }}">
+  <h2 id="publications-{{ year.name }}">{{ year.name }}</h2>
+  <div class="publication-list">
+    {% for paper in year.items %}
+    <article class="research-publication" id="{{ paper.id }}">
+      <h3>{% if paper.paper_url %}<a href="{{ paper.paper_url }}">{{ paper.title }}</a>{% else %}{{ paper.title }}{% endif %}</h3>
+      <p class="publication-authors">{% for author in paper.authors %}{% if author == 'Qi Le' %}<strong>{{ author }}</strong>{% else %}{{ author }}{% endif %}{% unless forloop.last %}, {% endunless %}{% endfor %}</p>
+      <p class="publication-venue">
+        {% if paper.status == 'submitted' %}<em>Submitted to {{ paper.venue }}</em>{% elsif paper.status == 'preprint' %}<em>{{ paper.venue }} · Preprint, {{ paper.year }}</em>{% else %}<strong>{{ paper.venue }}</strong>{% endif %}
+        {% if paper.award %}<span class="publication-badge">{{ paper.award }}</span>{% endif %}
+      </p>
+      {% if paper.paper_url or paper.code_url %}<p class="publication-resources">{% if paper.paper_url %}<a href="{{ paper.paper_url }}">Paper</a>{% endif %}{% if paper.paper_url and paper.code_url %}<span aria-hidden="true"> · </span>{% endif %}{% if paper.code_url %}<a href="{{ paper.code_url }}">Code</a>{% endif %}</p>{% endif %}
+    </article>
+    {% endfor %}
+  </div>
+</section>
+{% endfor %}
