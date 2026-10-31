@@ -1,8 +1,8 @@
 # Qi Le's personal website
 
-Site URL (currently unpublished): https://qi-le1.github.io/
+Site URL: https://qi-le1.github.io/
 
-This Jekyll site uses the AcademicPages theme. GitHub Pages is currently unpublished. Its publishing source is set to GitHub Actions, with no Pages deployment workflow configured, so pushing to `master` updates the source without republishing the website. Automatic branch publishing is disabled.
+This Jekyll site uses the AcademicPages theme. The owner authorized republishing the website on 2026-10-31. GitHub Pages publishes the repository's `master` branch from `/` (root), and automatic branch publishing is enabled.
 
 ## Update content
 
@@ -29,6 +29,6 @@ Open http://localhost:4000. Check home, publications, CV, and service at desktop
 
 ## Publish
 
-Commit reviewed source changes and push to `master`. Keep the website unpublished unless the owner explicitly authorizes publishing again. Republishing requires configuring a Pages deployment workflow or re-enabling branch publishing; neither should be done as part of an ordinary content update. After an authorized publication, verify the GitHub Pages build and live pages. Never copy private review reports or other graduate-school records into this repository.
+Commit reviewed source changes and push to `master` to trigger an automatic GitHub Pages build and deployment. Verify the build and live pages after publishing. Never copy private review reports or other graduate-school records into this repository.
 
 The older Hugo source from Downloads is preserved separately in `../original-materials/`; it is not part of this public repository. AcademicPages/Minimal Mistakes licenses and attribution remain in the source.
