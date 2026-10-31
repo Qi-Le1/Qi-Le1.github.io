@@ -2,15 +2,13 @@
   title: "OBMerge: Optimal Brain Merge via Iterative Parameter Replacement"
   authors: ["Qi Le", "Enmao Diao", "Ziyan Wang", "Xinran Wang", "Li Yang", "Jie Ding", "Ali Anwar"]
   year: 2026
-  venue: "ICLR 2027"
-  status: submitted
+  status: under_review
 
 - id: projcache
   title: "ProjCache: Output-Projected KV Cache Eviction with OBS-Inspired Compensation"
   authors: ["Qi Le", "Enmao Diao", "Ziyan Wang", "Xinran Wang", "Li Yang", "Jie Ding", "Ali Anwar"]
   year: 2026
-  venue: "ICLR 2027"
-  status: submitted
+  status: under_review
 
 - id: think-before-you-prune
   title: "Think Before You Prune: Self-Reflective Structured Pruning for Reasoning Language Models"
